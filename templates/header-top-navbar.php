@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a>
+      <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="/wp-content/themes/gaucheunieantibes/assets/img/logo400x100.png" style="margin-right: 50px;" alt="<?php bloginfo('name'); ?>" /></a>
     </div>
 
     <nav class="collapse navbar-collapse" role="navigation">
