@@ -1,4 +1,6 @@
-<div id="carousel-frontpage" class="carousel slide" data-ride="carousel">
+
+<div class="row">
+<div id="carousel-frontpage" class="carousel slide col-md-8" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#carousel-frontpage" data-slide-to="0" class="active"></li>
@@ -29,6 +31,11 @@
   <a class="right carousel-control" href="#carousel-frontpage" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
+</div>
+<div class="col-md-4">
+  <span class="socicon socicon-twitter"></span>
+</div>
+
 </div>
 
 
