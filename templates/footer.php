@@ -28,7 +28,7 @@
         <a href="http://www.jeunes-socialistes.fr"><img class="logo-parti mjs" src="/wp-content/themes/gaucheunieantibes/assets/img/logo-mjs.png" alt="Les Jeunes Socialistes"></a>
       </p>
       <p>&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?></p>
-      <p>Le contenu de ce site, à l'exception des transcriptions d'articles de presse, et publié sous licence <a href="http://creativecommons.org/licenses/by-sa/2.0/fr/">Creative Commons CC-BY-SA 2.0</a>
+      <p>Le contenu de ce site, à l'exception des transcriptions d'articles de presse, est publié sous licence <a href="http://creativecommons.org/licenses/by-sa/2.0/fr/">Creative Commons CC-BY-SA 2.0</a>
     </div>
   </div>
   
