@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="donner_avis.svg"
+   inkscape:export-filename="/home/arnaud/Documents/PS Antibes/Municipales2014/Site/calendar2.png"
+   inkscape:export-xdpi="217.85175"
+   inkscape:export-ydpi="217.85175">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="558.49254"
+     inkscape:cy="438.95401"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#e20040;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3957"
+       sodipodi:cx="430.25"
+       sodipodi:cy="627.86218"
+       sodipodi:rx="61.75"
+       sodipodi:ry="62"
+       d="m 467.89562,677.00797 a 61.75,62 0 1 1 0.11065,-0.0856"
+       sodipodi:start="0.91518275"
+       sodipodi:end="7.1961056"
+       sodipodi:open="true"
+       transform="matrix(1.0056797,0,0,0.99995463,88.409852,-10.971514)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4071"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Prof. Jorge';-inkscape-font-specification:'Prof. Jorge';font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4073"><rect
+           id="rect4075"
+           width="84.852814"
+           height="77.074638"
+           x="479.4184"
+           y="581.42908"
+           style="-inkscape-font-specification:'Prof. Jorge';font-family:'Prof. Jorge';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+         id="flowPara4077"
+         style="-inkscape-font-specification:Purisa;font-family:Purisa;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:144px;fill:#e20040;fill-opacity:1">i</flowPara></flowRoot>    <rect
+       style="fill:#e20040;fill-opacity:1;stroke:#e20040;stroke-width:1.83435535;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4106"
+       width="9.1688747"
+       height="72.892838"
+       x="49.567394"
+       y="765.07184"
+       transform="matrix(0.8174908,-0.57594166,0.60783884,0.79406042,0,0)" />
+    <rect
+       style="fill:#e20040;fill-opacity:1;stroke:#e20040;stroke-width:1.62961638;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4108"
+       width="6.2179956"
+       height="6.7266827"
+       x="669.14545"
+       y="527.13171"
+       transform="matrix(0.98520339,0.17138925,-0.20447512,0.97887176,0,0)" />
+    <path
+       style="fill:none;stroke:#ffd400;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 473.75,585.36218 c -0.75,2.5 25.35006,3.18562 21,18.25 -1.92709,6.67356 -4.75,9.25 -10.75,16.5 -3.38121,4.08563 -8.12745,10.61471 -1.25,10.5 6.20119,-0.10343 29.5,-6.75 30.75,-0.75 1.25,6 -26.75,10.25 -19.5,22 7.25,11.75 62.25,-6.5 62.25,-6.5"
+       id="path4116"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+  </g>
+</svg>

@@ -1,15 +1,25 @@
 <?php get_template_part('templates/content', 'frontpage'); ?>
 
 <?php if (!have_posts()) : ?>
-  <div class="alert alert-warning">
+  <div class="alert alert-warning clear">
     <?php _e('Sorry, no results were found.', 'roots'); ?>
   </div>
   <?php get_search_form(); ?>
 <?php endif; ?>
 
-<?php while (have_posts()) : the_post(); ?>
-  <?php get_template_part('templates/content', get_post_format()); ?>
-<?php endwhile; ?>
+<h1>Dernières actualités</h1>
+
+<div class="row-fluid">
+<?php $i = 0;
+while (have_posts()) : the_post(); ?>
+      <div class="post-frontpage col-md-3">
+        <?php get_template_part('templates/content', get_post_format()); ?>
+      </div>
+
+<?php $i++; endwhile; ?>
+
+  </div>
+
 
 <?php if ($wp_query->max_num_pages > 1) : ?>
   <nav class="post-nav">
