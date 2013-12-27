@@ -1,5 +1,9 @@
 <div id="header-frontpage">
   <div class="container row-fluid aligncenter">
+    <div  itemscope itemtype="http://data-vocabulary.org/Organization" id="presentation" class="col-md-6">
+      <p><span class="name">La gauche unie, solidaire et écologique</span> est une <span itemprop="description">liste de rassemblement de la gauche pour les élections municipales 2014 à Antibes-Juan les Pins, menée par <a href="/michele-muratore/">Michèle Muratore</span>.</p>
+      <p></p>
+    </div>
     <div id="social-icons" class="col-md-2">
       <h3>Nous suivre</h3>
       <p>
