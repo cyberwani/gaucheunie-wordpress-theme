@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="calendar3.svg"
-   inkscape:export-filename="/home/arnaud/Documents/PS Antibes/Municipales2014/Site/calendar2.png"
+   inkscape:export-filename="/home/arnaud/Dev/gaucheunie/wp-content/themes/gaucheunieantibes/assets/img/calendar3.png"
    inkscape:export-xdpi="217.85175"
    inkscape:export-ydpi="217.85175">
   <defs
@@ -33,10 +33,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-width="1678"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="19"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -72,7 +72,7 @@
            x="186.67619"
            y="467.58487"
            style="font-size:12px" /></flowRegion><flowPara
-         id="flowPara3996"></flowPara></flowRoot>    <rect
+         id="flowPara3996" /></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#e20040;stroke-width:2.16263843;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2985-4-4-0"
        width="57.399914"
@@ -225,7 +225,7 @@
        xml:space="preserve"
        id="flowRoot4080"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.77454866,0,0,0.77454866,46.215291,141.90205)"><flowRegion
+       transform="matrix(0.84367406,0,0,0.84367406,31.203276,95.600802)"><flowRegion
          id="flowRegion4082"><rect
            id="rect4084"
            width="265.16504"
@@ -233,8 +233,8 @@
            x="338.70416"
            y="643.65448" /></flowRegion><flowPara
          id="flowPara4086"
-         style="font-size:28px">Calendrier de</flowPara><flowPara
-         style="font-size:28px"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Jaures;-inkscape-font-specification:Jaures">Calendrier de</flowPara><flowPara
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Jaures;-inkscape-font-specification:Jaures"
          id="flowPara4088">campagne</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -243,6 +243,6 @@
        id="text4090"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4092"></tspan></text>
+         id="tspan4092" /></text>
   </g>
 </svg>
