@@ -2,8 +2,8 @@
   <div class="container row-fluid aligncenter">
     <div itemscope itemtype="http://data-vocabulary.org/Organization" id="presentation" class="presentation col-md-8">
       <img src="/wp-content/themes/gaucheunieantibes/assets/img/gauche_unie_banner.png" alt="La gauche unie, solidaire et écologique - Michèle Muratore pour Antibes Juan les Pins">
-      <h2>La gauche unie, solidaire et écologique - Michèle Muratore pour Antibes Juan les Pins</h2>
-      <p>Les élections municipales se dérouleront les 23 et 30 Mars 2014. <a href="/"><em><span itemprop="name">La gauche unie, solidaire et écologique</span></em></a> est une <span itemprop="description"><strong>liste de rassemblement à gauche pour Antibes Juan les Pins</strong> menée par <strong><span itemprop="founder" itemscope itemtype="http://data-vocabulary.org/Person">Michèle Muratore</span></strong></span>.</p>
+      <h2><span itemprop="name">La gauche unie, solidaire et écologique</span> - <span itemprop="alternateName">Michèle Muratore pour Antibes Juan les Pins</span></h2>
+      <p>Les élections municipales se dérouleront les 23 et 30 Mars 2014. <a href="/"><em>La gauche unie, solidaire et écologique</em></a> est une <span itemprop="description"><strong>liste de rassemblement à gauche pour Antibes Juan les Pins</strong> menée par <strong><span itemprop="founder" itemscope itemtype="http://data-vocabulary.org/Person">Michèle Muratore</span></strong></span>.</p>
     </div>
     <div class="col-md-4">
     <div id="social-icons">
